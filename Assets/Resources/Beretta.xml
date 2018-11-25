@@ -1,0 +1,19 @@
+﻿<items>
+    <item name="Beretta">
+        <Slot>2</Slot> <!--
+		
+		Slot1 = melee
+		Slot2 = pistol
+		Slot3 = primary
+		Slot4 = grenade
+						-->
+		<Ammo>9x19</Ammo>
+        <ClipSize>15</ClipSize>
+        <Dist>75</Dist>
+        <RPM>600</RPM>
+		<Burst>0</Burst>
+		<ReloadTime>1.3</ReloadTime>
+		<ShotSound>Sounds/Beretta/shot</ShotSound>
+		<ReloadSound>Sounds/Beretta/reload</ReloadSound>
+    </item>
+</items>

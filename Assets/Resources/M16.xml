@@ -1,0 +1,37 @@
+﻿
+<items>
+    <item name="AK47">
+        <Slot>3</Slot> <!--
+		
+		Slot1 = melee
+		Slot2 = pistol
+		Slot3 = primary
+		Slot4 = grenade
+						-->
+		<Ammo>762x39</Ammo>
+        <ClipSize>30</ClipSize>
+        <Dist>100</Dist>
+        <RPM>600</RPM>
+		<Burst>1</Burst>
+		<ReloadTime>1.7</ReloadTime>
+		<ShotSound>Sounds/AK47/shot</ShotSound>
+		<ReloadSound>Sounds/AK47/reload</ReloadSound>
+    </item>
+    <item name="M16">
+        <Slot>3</Slot> <!--
+		
+		Slot1 = melee
+		Slot2 = pistol
+		Slot3 = primary
+		Slot4 = grenade
+						-->
+		<Ammo>556x45</Ammo>
+        <ClipSize>30</ClipSize>
+        <Dist>100</Dist>
+        <RPM>600</RPM>
+		<Burst>3</Burst>
+		<ReloadTime>1.4</ReloadTime>
+		<ShotSound>Sounds/M16/shot</ShotSound>
+		<ReloadSound>Sounds/M16/reload</ReloadSound>
+    </item>
+</items>

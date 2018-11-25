@@ -1,0 +1,11 @@
+﻿<items>
+    <item name="762x39">
+        <Damage>24</Damage>
+    </item>
+    <item name="556x45">
+        <Damage>22</Damage>
+    </item>
+    <item name="9x19">
+        <Damage>15</Damage>
+    </item>
+</items>
